@@ -12,9 +12,5 @@
     "attributes": {
       "exportedResources": []
     }
-  },
-  "bundleDescriptorLoader": {
-    "id": "mule",
-    "attributes": {}
   }
 }
